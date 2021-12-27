@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Courier Prime', monospace;
+    color: #7E7D7E;
+    text-align: center;
+    background-color: #150616;
+}
+
+body {
+
+    background: 
+    url(../Vjezbe-algebra-css/fire.png) center 30%/18%no-repeat fixed,
+    url(../Vjezbe-algebra-css/pattern.png),
+    url(../Vjezbe-algebra-css/blossom.jpeg) center center/cover no-repeat fixed;
+   }
+
+p {
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: #969797;
+}
+
+p:nth-child(3) {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
